@@ -1,0 +1,42 @@
+C:\Users\rreiter\source\repos\TP_POO_Formes\librairie\bin\Debug\librairie.dll
+C:\Users\rreiter\source\repos\TP_POO_Formes\librairie\bin\Debug\librairie.pdb
+C:\Users\rreiter\source\repos\TP_POO_Formes\librairie\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\rreiter\source\repos\TP_POO_Formes\librairie\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\rreiter\source\repos\TP_POO_Formes\librairie\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\rreiter\source\repos\TP_POO_Formes\librairie\obj\Debug\librairie.csprojAssemblyReference.cache
+C:\Users\rreiter\source\repos\TP_POO_Formes\librairie\obj\Debug\librairie.csproj.CoreCompileInputs.cache
+C:\Users\rreiter\source\repos\TP_POO_Formes\librairie\obj\Debug\librairie.csproj.CopyComplete
+C:\Users\rreiter\source\repos\TP_POO_Formes\librairie\obj\Debug\librairie.dll
+C:\Users\rreiter\source\repos\TP_POO_Formes\librairie\obj\Debug\librairie.pdb
+C:\Users\rreiter\source\repos\TP_POO_Formes\librairie\bin\Debug\MySql.Data.dll
+H:\__EXO a faire\TP Forme\TP_POO_Formes\librairie\bin\Debug\librairie.dll
+H:\__EXO a faire\TP Forme\TP_POO_Formes\librairie\bin\Debug\librairie.pdb
+H:\__EXO a faire\TP Forme\TP_POO_Formes\librairie\bin\Debug\Microsoft.Analytics.Interfaces.dll
+H:\__EXO a faire\TP Forme\TP_POO_Formes\librairie\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+H:\__EXO a faire\TP Forme\TP_POO_Formes\librairie\bin\Debug\Microsoft.Analytics.Types.dll
+H:\__EXO a faire\TP Forme\TP_POO_Formes\librairie\obj\Debug\librairie.csprojAssemblyReference.cache
+H:\__EXO a faire\TP Forme\TP_POO_Formes\librairie\obj\Debug\librairie.csproj.CoreCompileInputs.cache
+H:\__EXO a faire\TP Forme\TP_POO_Formes\librairie\obj\Debug\librairie.csproj.CopyComplete
+H:\__EXO a faire\TP Forme\TP_POO_Formes\librairie\obj\Debug\librairie.dll
+H:\__EXO a faire\TP Forme\TP_POO_Formes\librairie\obj\Debug\librairie.pdb
+F:\_ Exo Fait et rendu\TP Forme\TP_POO_Formes\librairie\bin\Debug\librairie.dll
+F:\_ Exo Fait et rendu\TP Forme\TP_POO_Formes\librairie\bin\Debug\librairie.pdb
+F:\_ Exo Fait et rendu\TP Forme\TP_POO_Formes\librairie\bin\Debug\Microsoft.Analytics.Interfaces.dll
+F:\_ Exo Fait et rendu\TP Forme\TP_POO_Formes\librairie\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+F:\_ Exo Fait et rendu\TP Forme\TP_POO_Formes\librairie\bin\Debug\Microsoft.Analytics.Types.dll
+F:\_ Exo Fait et rendu\TP Forme\TP_POO_Formes\librairie\bin\Debug\MySql.Data.dll
+F:\_ Exo Fait et rendu\TP Forme\TP_POO_Formes\librairie\obj\Debug\librairie.csprojAssemblyReference.cache
+F:\_ Exo Fait et rendu\TP Forme\TP_POO_Formes\librairie\obj\Debug\librairie.csproj.CoreCompileInputs.cache
+F:\_ Exo Fait et rendu\TP Forme\TP_POO_Formes\librairie\obj\Debug\librairie.csproj.CopyComplete
+F:\_ Exo Fait et rendu\TP Forme\TP_POO_Formes\librairie\obj\Debug\librairie.dll
+F:\_ Exo Fait et rendu\TP Forme\TP_POO_Formes\librairie\obj\Debug\librairie.pdb
+H:\_ Exo Fait et rendu\TP Forme\TP_POO_Formes\librairie\bin\Debug\librairie.dll
+H:\_ Exo Fait et rendu\TP Forme\TP_POO_Formes\librairie\bin\Debug\librairie.pdb
+H:\_ Exo Fait et rendu\TP Forme\TP_POO_Formes\librairie\bin\Debug\Microsoft.Analytics.Interfaces.dll
+H:\_ Exo Fait et rendu\TP Forme\TP_POO_Formes\librairie\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+H:\_ Exo Fait et rendu\TP Forme\TP_POO_Formes\librairie\bin\Debug\Microsoft.Analytics.Types.dll
+H:\_ Exo Fait et rendu\TP Forme\TP_POO_Formes\librairie\obj\Debug\librairie.csprojAssemblyReference.cache
+H:\_ Exo Fait et rendu\TP Forme\TP_POO_Formes\librairie\obj\Debug\librairie.csproj.CoreCompileInputs.cache
+H:\_ Exo Fait et rendu\TP Forme\TP_POO_Formes\librairie\obj\Debug\librairie.csproj.CopyComplete
+H:\_ Exo Fait et rendu\TP Forme\TP_POO_Formes\librairie\obj\Debug\librairie.dll
+H:\_ Exo Fait et rendu\TP Forme\TP_POO_Formes\librairie\obj\Debug\librairie.pdb
